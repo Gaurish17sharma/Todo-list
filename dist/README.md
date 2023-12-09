@@ -1,7 +1,6 @@
 # ToDo-List
  - This is a Basic Todo-List
  - using date-fns package
- - Check out live preview here: https://Gaurish17sharma.github.io/todo_list/
 # Functionality
  - add projects
  - rename projects
